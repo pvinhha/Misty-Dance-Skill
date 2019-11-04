@@ -1,6 +1,8 @@
 # Misty-Dance-Skill
 Demonstrate a dancing skill for Misty robot
+
 //------------------------------------------------------------------------//
+
 Misty Dance skill with iceskating moves - by Phillip Ha
 Misty moves and poses along the inspired song "I will survive" sung by
 the famous singer Gloria Gaynor
@@ -20,6 +22,7 @@ build more advanced skills. This skill include
   move 
 - Using head and arm movement to show poses
 - LEDs usage with mulitple colors setting in the sensors' callbacks
+
 //------------------------------------------------------------------------//
 
 Usage:
